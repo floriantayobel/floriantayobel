@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ###
 
-<h4> 📊Github Stats </h4>
+<br clear="both">
+
+<h3> 📊Github Stats: </h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=floriantayobel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="190" alt="stats graph"  />
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h3 align="left">🌐My Social Media</h3>
+<h3 align="left">🌐My Social Media: </h3>
 
 ###
 
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h2 align="center">💻Skills</h2>
+<h3 align="center">💻Skills: </h3>
 
 ###
 
