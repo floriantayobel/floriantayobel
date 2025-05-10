@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Yobel</h1>
-
 ###
 
 <h4> 📊Github Stats </h4>
